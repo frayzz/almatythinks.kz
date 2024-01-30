@@ -1,0 +1,23 @@
+{
+    "name": "AlmatyThinks",
+    "short_name": "AlmatyThinks",
+    "start_url": "/index.php",
+    "background_color": "#ffffff",
+    "description": "Блог Пост приложение AlmatyThinks",
+    "display": "fullscreen",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "assets/images/appleicon_white.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "lang": "ru",
+    "categories": [
+      "news",
+      "social",
+      "utilities"
+    ]
+  }
